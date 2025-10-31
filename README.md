@@ -1,1 +1,1 @@
-# Jim-and-the-Orders-algo
+# Jim-and-the-Orders-algo Compute the time each customer’s order is completed by adding their arrival and preparation time. Sort the customers by completion time; if two orders finish at the same time, the customer with the smaller original index goes first. This gives the correct serving order.
